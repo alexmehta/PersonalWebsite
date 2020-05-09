@@ -149,3 +149,40 @@ nav li{
     float: left;
 }
 /*codingpage*/
+.coding-headline{
+    
+    color:#4e4d4d;
+    text-align: center;
+    font-size:30px;
+    font-weight: 300;
+
+    
+    
+}
+#coding-header{
+    
+    background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+#coding-header ul{
+    display: inline-block;
+    position: absolute;
+    left:50%;
+    transform: translate(-50%,0);
+    list-style-type: none;
+    list-style: none;
+    color: black;
+    
+}
+
+#coding-header li{
+    padding: 0 50;
+    display: inline-block;
+    color: black;
+}
+#coding-header a{
+    
+    text-decoration: none;
+}
