@@ -1,0 +1,151 @@
+/*-----------------Header------------*/
+
+
+#header{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../IMG/download.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color:white;
+    position: relative;
+    
+}
+#header .home{
+    
+    position: static;
+    
+    
+}
+#header .dots{
+    background-image: url(../img/pattern-bg.png);
+    height: 100%;
+    
+}
+nav ul{
+    
+    
+   
+    list-style: none;
+    position: absolute;
+    right: 3%;
+    top: 0;
+    transform: translate(0,-50%);
+    
+    
+}
+nav{
+    position: absolute;
+    right: 30;
+    top:10%;
+    
+    
+}
+nav li{
+    
+    
+    float:left;
+    margin:0 15px;
+}
+#header nav img{
+    
+    
+    width: 200px;
+    
+    
+}
+#header nav{
+    position: fixed;
+    padding: 20px 10px;
+    width: 100%;
+    z-index: 2;
+    
+}
+#header nav a{
+    
+    color: white;
+    text-decoration: none;
+}
+#header .headline-container{
+    
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%)
+    
+}
+#header .headline-container h1{
+    
+    font-size:60px;
+    font-weight: 400;
+    
+}
+#header .headline-container h2{
+    font-size: 60px;
+    font-weight: 300;
+    margin-bottom: 45px;
+    
+    
+}
+/*Apply to all code*/
+
+*{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.dark-background{
+    
+    background-color: #292E37;
+}
+.section-headline{
+    color:#4e4d4d;
+    text-align: center;
+    font-size:75px;
+    font-weight: 300;
+}
+.section-headline h2{
+    color:#4e4d4d;
+    text-align: center;
+    font-size:75px;
+    font-weight: 300;
+}
+.section{
+    padding: 70px 0px;
+}
+.row{
+    width:80%;
+    margin: 0 auto;
+    overflow: auto;
+}
+.one-of-two{
+    
+    width:50%;
+    float:left;
+}
+
+.one-of-three{
+    
+    width: 33.3%;
+    float: left;
+    
+}
+.line{
+    
+    height: 2px;
+    width: 80px;
+    background-color: lightgray;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}    
+.one-of-four{
+    
+    width:25%;
+    float: right;
+}
+.two-of-three{
+    
+    width: 66.66%;
+    float: left;
+}
+/*codingpage*/
