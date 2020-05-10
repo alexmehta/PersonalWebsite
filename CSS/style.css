@@ -167,19 +167,23 @@ nav li{
     height: 100vh;
 }
 #coding-header ul{
-    display: inline-block;
-    position: absolute;
+    position: relative;
+    float: left;
     left:50%;
     transform: translate(-50%,0);
+    margin-left: auto;
+    margin-right: auto;
     list-style-type: none;
     list-style: none;
     color: black;
     width: 100%;
+    text-align: center;
+     
 }
 
 #coding-header li{
-    display: inline-block;
     color: black;
+    float: left;
 }
 #coding-header a{
     
@@ -203,4 +207,15 @@ nav li{
     left:50%;
     transform: translate(-50%,0)
     
+}
+.coding-container{
+    text-align: center;
+    left: 50%;
+    position: fixed;
+    transform: translate(-50%,0);
+    
+}
+.coding-container h1{
+    
+    color: black;
 }
