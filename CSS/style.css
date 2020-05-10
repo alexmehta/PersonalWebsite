@@ -186,3 +186,22 @@ nav li{
     
     text-decoration: none;
 }
+footer{
+    
+    text-align: center;
+    background-color: #292E37;
+    color: white;
+    text-decoration: none;
+ 
+}
+.privacy{
+    
+    border: solid 1px;
+    background-color: lightblue;
+    width: 40px;
+    height: 20px;
+    position: relative;
+    left:50%;
+    transform: translate(-50%,0)
+    
+}
