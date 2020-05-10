@@ -174,11 +174,10 @@ nav li{
     list-style-type: none;
     list-style: none;
     color: black;
-    
+    width: 100%;
 }
 
 #coding-header li{
-    padding: 0 50;
     display: inline-block;
     color: black;
 }
