@@ -1,176 +1,203 @@
 /*-----------------Header------------*/
 
 
-#header{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../IMG/download.jpg);
+#header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../IMG/download.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
-    color:white;
+    color: white;
     position: relative;
-    
+
 }
-#header .home{
-    
+
+#header .home {
+
     position: static;
-    
-    
+
+
 }
-#header .dots{
+
+#header .dots {
     background-image: url(../img/pattern-bg.png);
     height: 100%;
-    
+
 }
-nav ul{
-    
-    
-   
+
+nav ul {
+
+
+
     list-style: none;
     position: absolute;
     right: 3%;
     top: 0;
-    transform: translate(0,-50%);
-    
-    
+    transform: translate(0, -50%);
+
+
 }
-nav{
+
+nav {
     position: absolute;
     right: 30;
-    top:10%;
-    
-    
+    top: 10%;
+
+
 }
-nav li{
-    
-    
-    float:left;
-    margin:0 15px;
+
+nav li {
+
+
+    float: left;
+    margin: 0 15px;
 }
-#header nav img{
-    
-    
+
+#header nav img {
+
+
     width: 200px;
-    
-    
+
+
 }
-#header nav{
+
+#header nav {
     position: fixed;
     padding: 20px 10px;
     width: 100%;
     z-index: 2;
-    
+
 }
-#header nav a{
-    
+
+#header nav a {
+
     color: white;
     text-decoration: none;
 }
-#header .headline-container{
-    
+
+#header .headline-container {
+
     position: absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%)
-    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
 }
-#header .headline-container h1{
-    
-    font-size:60px;
+
+#header .headline-container h1 {
+
+    font-size: 60px;
     font-weight: 400;
-    
+
 }
-#header .headline-container h2{
+
+#header .headline-container h2 {
     font-size: 60px;
     font-weight: 300;
     margin-bottom: 45px;
-    
-    
+
+
 }
+
 /*Apply to all code*/
 
-*{
+* {
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
 }
-.dark-background{
-    
+
+.dark-background {
+
     background-color: #292E37;
 }
-.section-headline{
-    color:#4e4d4d;
+
+.section-headline {
+    color: #4e4d4d;
     text-align: center;
-    font-size:75px;
+    font-size: 75px;
     font-weight: 300;
 }
-.section-headline h2{
-    color:#4e4d4d;
+
+.section-headline h2 {
+    color: #4e4d4d;
     text-align: center;
-    font-size:75px;
+    font-size: 75px;
     font-weight: 300;
 }
-.section{
+
+.section {
     padding: 70px 0px;
 }
-.row{
-    width:80%;
+
+.row {
+    width: 80%;
     margin: 0 auto;
     overflow: auto;
 }
-.one-of-two{
-    
-    width:50%;
-    float:left;
+
+.one-of-two {
+
+    width: 50%;
+    float: left;
 }
 
-.one-of-three{
-    
+.one-of-three {
+
     width: 33.3%;
     float: left;
-    
+
 }
-.line{
-    
+
+.line {
+
     height: 2px;
     width: 80px;
     background-color: lightgray;
     margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 60px;
-}    
-.one-of-four{
-    
-    width:25%;
+}
+
+.one-of-four {
+
+    width: 25%;
     float: right;
 }
-.two-of-three{
-    
+
+.two-of-three {
+
     width: 66.66%;
     float: left;
 }
-/*codingpage*/
-.coding-headline{
-    
-    color:#4e4d4d;
-    text-align: center;
-    font-size:30px;
-    font-weight: 300;
 
-    
-    
+/*codingpage*/
+.coding-headline {
+
+    color: #4e4d4d;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 100px margin: 0 auto;
+    padding: 0 auto;
+
+
+
 }
-#coding-header{
-    
+
+#coding-header {
+
     background-image: url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80");
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
-#coding-header ul{
+
+#coding-header ul {
     position: relative;
     float: left;
-    left:50%;
-    transform: translate(-50%,0);
+    left: 50%;
+    transform: translate(-50%, 0);
     margin-left: auto;
     margin-right: auto;
     list-style-type: none;
@@ -178,44 +205,68 @@ nav li{
     color: black;
     width: 100%;
     text-align: center;
-     
+
 }
 
-#coding-header li{
+#coding-header li {
     color: black;
     float: left;
 }
-#coding-header a{
-    
+
+#coding-header a {
+
     text-decoration: none;
 }
-#footer{
-    
+
+#footer {
+
     text-align: center;
     background-color: #292E37;
     color: white;
     text-decoration: none;
- 
+
 }
-.privacy{
-    
+
+.privacy {
+
     border: solid 1px;
     background-color: lightblue;
     width: 40px;
     height: 20px;
     position: relative;
-    left:50%;
-    transform: translate(-50%,0)
-    
+    left: 50%;
+    transform: translate(-50%, 0)
 }
-.coding-container{
+
+.coding-container {
     text-align: center;
     left: 50%;
     position: fixed;
-    transform: translate(-50%,0);
-    
+    transform: translate(-50%, 0);
+
 }
-.coding-container h1{
-    
+
+.coding-container h1 {
+
     color: black;
+}
+
+#github h1 {
+    position: relative;
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-size: 60;
+}
+
+#github img {
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, 0)
+}
+
+.white {
+
+    color: white;
+    visibility: hidden;
 }
