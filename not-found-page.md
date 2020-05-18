@@ -1,7 +1,3 @@
----
-permalink: /404.html
----
-
 There was an error, lets get you back to the homepage
 =====================================================
 
