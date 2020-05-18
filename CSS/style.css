@@ -270,3 +270,12 @@ nav li {
     color: white;
     visibility: hidden;
 }
+
+#coding-header i {
+
+    left: 50%;
+
+    bottom: 0%;
+
+    transform: translate(-50%, 0)
+}
