@@ -2,7 +2,17 @@
 <html lang="en">
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-      <meta name="description" content="Alex's Personal Website" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134657101-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-134657101-2');
+    </script>
+
+    <meta name="description" content="Alex's Personal Website" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alex Mehta</title>
@@ -58,6 +68,9 @@
         <div id="embed gif">
             <div class="tenor-gif-embed" data-postid="16631605" data-share-method="host" data-width="100%" data-aspect-ratio="1.2"><a href="https://tenor.com/view/meme-mace-windu-shout-wild-mad-gif-16631605">Meme Mace Windu GIF</a> from <a href="https://tenor.com/search/meme-gifs">Meme GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
         </div>
+        <div id="fisto">
+            <div class="tenor-gif-embed" data-postid="4964606" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/kit-fisto-star-wars-smile-lightsaber-fight-gif-4964606">Kit Fisto Star Wars GIF</a> from <a href="https://tenor.com/search/kitfisto-gifs">Kitfisto GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        </div>
 
 
     </div>
@@ -67,11 +80,21 @@
     <script>
         var d = new Date();
         var n = d.getDay();
-        var titles = ['', 'Techno Union Tuesday ', "Windu Wednesday", 'title 4', 'title 5', 'title 6', 'title 7'];
+        var titles = ['', 'Techno Union Tuesday ', "Windu Wednesday", '', 'Fisto Friday', '', ''];
         document.getElementById("gif").innerHTML = titles[n-1];
-        document.getElementById("gif").inner
-        var gifs = ['', 'Techno Union Tuesday', 'Windu Wednesday', 'title 4', 'title 5', 'title 6', 'title 7']
-
+        var gifs = ['', 'Techno Union Tuesday', 'Windu Wednesday', '', 'Fisto Friday', 'title 6', 'title 7']
+        var x = document.getElementById("embed gif");
+        var y=document.getElementById("fisto")
+        if (n==3) {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+        if(n==5){
+            y.style.display = "block"
+        } else{
+            y.style.display = "none";
+        }
     </script>
 </body>
 </html>
