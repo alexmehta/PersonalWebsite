@@ -11,25 +11,13 @@
 
         gtag('config', 'UA-134657101-2');
     </script>
-
+    <link rel="stylesheet" href="main.css">
     <meta name="description" content="Alex's Personal Website" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alex Mehta</title>
-    <style>
-        .gif{
-            height: 50%;
-            text-align: center;
-            width: 50%;
-            margin: 0;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            -ms-transform: translate(-50%, -50%);
-            transform: translate(-50%, -50%);
-        }
-
-    </style>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
@@ -62,39 +50,19 @@
 
         </div>
     </nav>    
-    <br>
-    <div class="gif" id="gifcontain">
-        <div id="gif"></div>
-        <div id="embed gif">
-            <div class="tenor-gif-embed" data-postid="16631605" data-share-method="host" data-width="100%" data-aspect-ratio="1.2"><a href="https://tenor.com/view/meme-mace-windu-shout-wild-mad-gif-16631605">Meme Mace Windu GIF</a> from <a href="https://tenor.com/search/meme-gifs">Meme GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <div class="profile">
+        <img src="assets/css/images/bing-hao-_wqj9tC0WSE-unsplash.jpg"  class="center" alt="building">
+        <div id="objects">
+            <div class="text-center" style="color:black;  position: absolute;top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                <h1>Alexander Mehta</h1>
+                <a class="button">Resume</a>
+                <a class="button" style="text-align: center">CV</a>
+            </div>
         </div>
-        <div id="fisto">
-            <div class="tenor-gif-embed" data-postid="4964606" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/kit-fisto-star-wars-smile-lightsaber-fight-gif-4964606">Kit Fisto Star Wars GIF</a> from <a href="https://tenor.com/search/kitfisto-gifs">Kitfisto GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-        </div>
-
-
     </div>
-
-
-    <h1 style="text-align: center">Find my projects in the projects tab.</h1>
-    <script>
-        var d = new Date();
-        var n = d.getDay();
-        var titles = ['', 'Techno Union Tuesday ', "Windu Wednesday", '', 'Fisto Friday', '', ''];
-        document.getElementById("gif").innerHTML = titles[n-1];
-        var gifs = ['', 'Techno Union Tuesday', 'Windu Wednesday', '', 'Fisto Friday', 'title 6', 'title 7']
-        var x = document.getElementById("embed gif");
-        var y=document.getElementById("fisto")
-        if (n==3) {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-        if(n==5){
-            y.style.display = "block"
-        } else{
-            y.style.display = "none";
-        }
-    </script>
+<footer class="footer">
+    <h1>Created by: Alex Mehta</h1>
+    <span>Photo by <a href="https://unsplash.com/@bingh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bing HAO</a> on <a href="https://unsplash.com/wallpapers/travel/city?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</footer>
 </body>
 </html>
