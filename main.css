@@ -1,17 +1,11 @@
 body{
-
-    height: 100%;
 }
 .profile{
     background-color: #292E37;
-    height: 100%;
 }
 .center{
     text-align: center;
-    height: 100%;
-    width: 100%;
     align-items: center;
-
 }
 .center i{
     font-size: 30px;
@@ -19,7 +13,7 @@ body{
 }
 .button{
     text-align: center;
-    display:inline-block;
+    display: inline-block;
     color: black;
     text-decoration: none;
     border: 1px solid black;
@@ -35,4 +29,20 @@ body{
     color: white;
     text-align: center;
     background-color: black;
+}
+#objects{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("img/photo.jpg");
+}
+#inner{
+    display: inline-block;
+    vertical-align: auto;
+    margin: 0 auto;
+    padding: 3px;
 }

@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96b8f8e7-e6d5-4e1c-bbb5-908ffb43557d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bing-hao-_wqj9tC0WSE-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/photo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
@@ -47,11 +48,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hWHHZBrdSeYZOmVMRkytNU51XC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -68,6 +73,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite\img" />
       <recent name="C:\Users\alex\WebstormProjects\PersonalWebsiteReal\assets\css\images" />
       <recent name="C:\Users\alex\WebstormProjects\PersonalWebsiteReal" />
       <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite\files\LoadingScreen" />
@@ -124,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600914814961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new strucure">
+      <created>1602978656495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602978656495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +168,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="redid menus and added contact.html" />
     <MESSAGE value="added files" />
     <MESSAGE value="mace windu" />
-    <option name="LAST_COMMIT_MESSAGE" value="mace windu" />
+    <MESSAGE value="new strucure" />
+    <option name="LAST_COMMIT_MESSAGE" value="new strucure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="144" key="SettingsEditor" timestamp="1600914989541">
