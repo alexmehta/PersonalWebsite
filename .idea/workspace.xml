@@ -27,9 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96b8f8e7-e6d5-4e1c-bbb5-908ffb43557d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +101,7 @@
       <workItem from="1603072519473" duration="3000" />
       <workItem from="1603318401453" duration="53000" />
       <workItem from="1603319441095" duration="109000" />
+      <workItem from="1609369964642" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="redid menus and added contact.html">
       <created>1600120573737</created>
