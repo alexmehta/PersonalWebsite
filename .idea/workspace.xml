@@ -1,151 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b8f8e7-e6d5-4e1c-bbb5-908ffb43557d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/downloads.html" afterDir="false" />
+    <list default="true" id="9e7be953-1bd2-4bd0-9987-2e30467b2c88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/old/v1`/fun/dummyFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PersonalWebsite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archery.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/archery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/css/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/bing-hao-_wqj9tC0WSE-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/css/images/bing-hao-_wqj9tC0WSE-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/louis-morel-HHLcascRf9E-unsplash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/css/images/louis-morel-HHLcascRf9E-unsplash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay-pattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/css/images/overlay-pattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.svg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/css/images/overlay.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/assets/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/coding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/downloads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/LoadingScreen/LoadingScreenSim.jar" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/files/LoadingScreen/LoadingScreenSim.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/LoadingScreen/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/files/LoadingScreen/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/dummyFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/spotify.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/fun/spotify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/fun/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/googleb1fdfd282de7602d.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/googleb1fdfd282de7602d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Discord-Logo-Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/img/Discord-Logo-Black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/discord.png" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/img/discord.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/img/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/img/photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/old/v1`/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/not-found-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/not-found-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hWHHZBrdSeYZOmVMRkytNU51XC" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1oXAK2yd3AYdztvzxSTNB5xTZz0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite\img" />
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsiteReal\assets\css\images" />
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsiteReal" />
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite\files\LoadingScreen" />
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsiteReal" />
+      <recent name="C:\Users\alex\WebstormProjects\PersonalWebsite\old\v1`" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\alex\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96b8f8e7-e6d5-4e1c-bbb5-908ffb43557d" name="Default Changelist" comment="" />
-      <created>1600119841831</created>
+      <changelist id="9e7be953-1bd2-4bd0-9987-2e30467b2c88" name="Default Changelist" comment="" />
+      <created>1613422493526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600119841831</updated>
-      <workItem from="1600119844088" duration="1136000" />
-      <workItem from="1600190876236" duration="166000" />
-      <workItem from="1600269315675" duration="44000" />
-      <workItem from="1600269368863" duration="13000" />
-      <workItem from="1600913399253" duration="1601000" />
-      <workItem from="1600986071215" duration="636000" />
-      <workItem from="1602812545406" duration="4334000" />
-      <workItem from="1603072519473" duration="3000" />
-      <workItem from="1603318401453" duration="53000" />
-      <workItem from="1603319441095" duration="109000" />
-      <workItem from="1609369964642" duration="315000" />
+      <updated>1613422493526</updated>
+      <workItem from="1613422494653" duration="722000" />
     </task>
-    <task id="LOCAL-00001" summary="redid menus and added contact.html">
-      <created>1600120573737</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600120573737</updated>
-    </task>
-    <task id="LOCAL-00002" summary="redid menus and added contact.html">
-      <created>1600120980810</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1600120980810</updated>
-    </task>
-    <task id="LOCAL-00003" summary="added files">
-      <created>1600190956030</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1600190956030</updated>
-    </task>
-    <task id="LOCAL-00004" summary="mace windu">
-      <created>1600914814961</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1600914814961</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new strucure">
-      <created>1602978656495</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602978656495</updated>
-    </task>
-    <task id="LOCAL-00006" summary="FINISH CENTERED">
-      <created>1602979792988</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1602979792988</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,52 +84,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="redid menus and added contact.html" />
-    <MESSAGE value="added files" />
-    <MESSAGE value="mace windu" />
-    <MESSAGE value="new strucure" />
-    <MESSAGE value="FINISH CENTERED" />
-    <option name="LAST_COMMIT_MESSAGE" value="FINISH CENTERED" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="568" y="144" key="SettingsEditor" timestamp="1600914989541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1352" y="144" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600269359127" />
-    <state x="568" y="144" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600914989541" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603318406367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600120982993" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603318406367" />
-    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600913411899">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600913411899" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600986313708">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600986313708" />
   </component>
 </project>
